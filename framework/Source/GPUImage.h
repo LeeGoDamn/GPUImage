@@ -74,6 +74,7 @@
 #import "GPUImageAdaptiveThresholdFilter.h"
 #import "GPUImageSolarizeFilter.h"
 #import "GPUImageUnsharpMaskFilter.h"
+#import "GPUImageTextureFilter.h"
 #import "GPUImageBulgeDistortionFilter.h"
 #import "GPUImagePinchDistortionFilter.h"
 #import "GPUImageCrosshatchFilter.h"

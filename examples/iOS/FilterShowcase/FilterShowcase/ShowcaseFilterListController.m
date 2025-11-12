@@ -81,6 +81,7 @@
         case GPUIMAGE_FALSECOLOR: cell.textLabel.text = @"False color"; break;
 		case GPUIMAGE_SHARPEN: cell.textLabel.text = @"Sharpen"; break;
 		case GPUIMAGE_UNSHARPMASK: cell.textLabel.text = @"Unsharp mask"; break;
+		case GPUIMAGE_TEXTURE: cell.textLabel.text = @"Texture"; break;
 		case GPUIMAGE_GAMMA: cell.textLabel.text = @"Gamma"; break;
 		case GPUIMAGE_TONECURVE: cell.textLabel.text = @"Tone curve"; break;
 		case GPUIMAGE_HIGHLIGHTSHADOW: cell.textLabel.text = @"Highlights and shadows"; break;
