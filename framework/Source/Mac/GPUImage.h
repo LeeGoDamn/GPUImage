@@ -36,6 +36,7 @@
 #import <GPUImage/GPUImageFalseColorFilter.h>
 #import <GPUImage/GPUImageSharpenFilter.h>
 #import <GPUImage/GPUImageUnsharpMaskFilter.h>
+#import <GPUImage/GPUImageTextureFilter.h>
 #import <GPUImage/GPUImageTwoInputFilter.h>
 #import <GPUImage/GPUImageGaussianBlurFilter.h>
 #import <GPUImage/GPUImageTwoPassTextureSamplingFilter.h>
